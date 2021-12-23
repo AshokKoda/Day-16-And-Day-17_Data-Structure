@@ -76,7 +76,6 @@ public class MergeSort {
 		System.out.println();
 	}
 
-// Driver program
 	public static void main(String args[]) {
 		int arr[] = { 6, 5, 12, 10, 9, 1 };
 
